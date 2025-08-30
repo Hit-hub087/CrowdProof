@@ -163,4 +163,6 @@ For more information, please contact the CrowdProof team at contact@crowdproof.i
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/0f119ba3-598a-4e12-b841-09d8618a70d6)
 
+Status: Updated on 30 Aug 2025
+
 
